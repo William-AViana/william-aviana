@@ -2,8 +2,7 @@
 
 
 - Estou em busca de oportunidades.
-- Eu não estou trabalhando atualmente.
-- Eu estou aprendendo HTML, CSS e JavaScript.
+- Trabalho com HTML, CSS e JavaScript.
 
 <!-- Exemplo de perfil professor Mayk Brito
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
