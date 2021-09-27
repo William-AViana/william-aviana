@@ -1,8 +1,19 @@
-### Oi 👋
+### Olá! Eu sou o William Viana 👋
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-viana-desenvolvedor/)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/246856/william-viana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/william_a_viana/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/w.i.am.batera)
 
-- Estou em busca de oportunidades.
-- Trabalho com HTML, CSS e JavaScript.
+![William-AViana GitHub stats](https://github-readme-stats.vercel.app/api?username=william-aviana&show_icons=true&theme=onedark)
+
+## Tecnologias que uso no meu dia
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</div><br>
 
 <!-- Exemplo de perfil professor Mayk Brito
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
