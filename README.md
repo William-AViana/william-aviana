@@ -6,8 +6,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=william-aviana&show_icons=true&theme=onedark"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-aviana&layout=compact&theme=onedark"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=william-aviana&show_icons=true&theme=onedark"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-aviana&layout=compact&theme=onedark"/>
 </p>
 <br>
 
