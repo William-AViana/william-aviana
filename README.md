@@ -1,6 +1,7 @@
 ### Olá! Eu sou o William Viana 👋
 
-- Desenvolvedor Front-end
+- Desenvolvedor Front-end.
+- Meu objetivo é ser Desenvolvedor Full Stack.
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
