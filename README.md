@@ -1,7 +1,6 @@
 ### Olá! Eu sou o William Viana 👋
 
 - Desenvolvedor Back-end NodeJS.
-- Meu objetivo é ser Desenvolvedor Full Stack.
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
