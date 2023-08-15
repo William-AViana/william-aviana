@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William Viana 👋
 
-- Desenvolvedor FullStack.
+- Desenvolvedor Python.
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
