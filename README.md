@@ -11,6 +11,9 @@
 </p>
 <br>
 
+## Codewars
+https://www.codewars.com/users/William-AViana/badges/large
+
 ## Tecnologias que uso no meu dia
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
