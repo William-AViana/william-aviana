@@ -12,7 +12,7 @@
 <br>
 
 ## Codewars
-https://www.codewars.com/users/William-AViana/badges/large
+<img src="https://www.codewars.com/users/William-AViana/badges/large">
 
 ## Tecnologias que uso no meu dia
 
