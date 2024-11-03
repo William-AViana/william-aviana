@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William Viana 👋
 
-- Desenvolvedor Python.
+- Desenvolvedor Web.
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
